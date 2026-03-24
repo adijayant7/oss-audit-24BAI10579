@@ -1,4 +1,4 @@
-# oss-audit-[rollnumber]
+# oss-audit-24BAI10579
 
 > VITyarthi | Open Source Software — OSS NGMC Capstone Project
 
@@ -8,9 +8,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Full Name] |
-| **Registration Number** | [Your Registration Number] |
-| **Slot** | [Your Slot] |
+| **Student Name** | ADITYA JAYANT |
+| **Registration Number** | 24BAI10579 |
 | **Course** | Open Source Software (OSS NGMC) |
 
 ---
@@ -103,8 +102,8 @@ Asks 3 questions interactively, then writes a personalised open-source statement
 ### Step 1 — Clone the repo
 
 ```bash
-git clone https://github.com/[your-username]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone https://github.com/adijayant7/oss-audit-24BAI10579.git
+cd oss-audit-24BAI10579
 ```
 
 ### Step 2 — Make scripts executable
