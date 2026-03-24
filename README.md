@@ -10,6 +10,7 @@
 |-------|---------|
 | **Student Name** | ADITYA JAYANT |
 | **Registration Number** | 24BAI10579 |
+| **SLOT** | D-11
 | **Course** | Open Source Software (OSS NGMC) |
 
 ---
