@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script 1 - System Identity Report
-# Name: [Your Name] | Reg: [Your Reg No]
+# Name: ADITYA JAYANT | Reg: 24BAI10579
 # Course: Open Source Software
 
 # storing my details in variables
-STUDENT_NAME="[Your Name]"
+STUDENT_NAME="ADITYA JAYANT"
 SOFTWARE="MySQL"
 
 # command substitution to grab live system info
