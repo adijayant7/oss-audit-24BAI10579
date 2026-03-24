@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2 - FOSS Package Inspector
-# Name: [Your Name] | Reg: [Your Reg No]
+# Name: ADITYA JAYANT | Reg: 24BAI10579
 # Course: Open Source Software
 
 PACKAGE="mysql-server"
