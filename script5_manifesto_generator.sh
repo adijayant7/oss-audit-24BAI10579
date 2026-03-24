@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5 - Open Source Manifesto Generator
-# Name: [Your Name] | Reg: [Your Reg No]
+# Name: ADITYA JAYANT | Reg: 24BAI10579
 # Course: Open Source Software
 
 # note on aliases: you can do alias today='date +%d\ %B\ %Y' in bash
